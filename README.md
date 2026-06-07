@@ -1,7 +1,7 @@
 <table width="100%"><tr><td>
 <div align="left">
 
-# ```👨‍💻 Hello World! I am Moeiz Shahzad 👋```
+# ```Hello World! I am Moeiz Shahzad 👋```
 ### 🚀 Software Engineer | Backends & Distributed Systems | AI Engineering & Automations
 
 ---
