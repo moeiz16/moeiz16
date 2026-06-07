@@ -2,7 +2,7 @@
 <div align="left">
 
 # ```Hello World! I am Moeiz Shahzad 👋```
-### 🚀 Software Engineer | Backends & Distributed Systems | AI Engineering & Automations
+### ```Software Engineer | Backends & Distributed Systems | AI Engineering & Automations```
 
 ---
 
@@ -10,7 +10,7 @@
   I am a Backend and AI Systems Engineer with over 4 years of experience architecting highly scalable server-side systems, robust enterprise ERP platforms, and intelligent automation frameworks. My expertise lies in building resilient backend infrastructures, managing distributed microservices, and integrating advanced AI solutions, including LLM agents and multi-agent orchestration—into production environments.
 </p>
 
-**🧠 Currently exploring:** High-performance distributed system architectures, event-driven scaling strategies, and advanced multi-agent workflows.
+**Currently exploring:** High-performance distributed system architectures, event-driven scaling strategies, and advanced multi-agent workflows.
 
 ---
 
