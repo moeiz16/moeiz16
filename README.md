@@ -21,12 +21,12 @@
   <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,cs,java" alt="Languages" />
 </p>
 
-### ⚙️ Frameworks & Frontend Development
+### ⚙️ Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,react,nextjs,vite,tailwind,bootstrap,jquery,html,css" alt="Frameworks" />
 </p>
 
-### 🤖 AI, Data Science & Vector Spaces
+### 🤖 AI & Data Science
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="48" width="48" alt="TensorFlow" title="TensorFlow" style="vertical-align: top; margin-right: 5px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="48" width="48" alt="PyTorch" title="PyTorch" style="vertical-align: top; margin-right: 5px;" />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" width="48" alt="MATLAB" title="MATLAB" style="vertical-align: top; background: #1a1b26; border-radius: 10px; padding: 6px;" />
 </p>
 
-### ☁️ Cloud, DevOps & Distributed Streaming
+### ☁️ Cloud and Devops
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,gitlab,git,nginx,ubuntu,linux" alt="DevOps" />
 </p>
