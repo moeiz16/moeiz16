@@ -80,7 +80,7 @@
 </p>
 
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=moeiz16.moeiz16&left_text=Profile%20Views&left_color=dimgray&right_color=brightgreen&style=flat-square" alt="Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moeiz16.moeiz16&left_text=Github%20Views&left_color=dimgray&right_color=brightgreen&style=flat-square" alt="Views" />
 </p>
 
 ---
