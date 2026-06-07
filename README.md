@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,cs,java" alt="Languages" />
 </p>
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,react,nextjs,vite,tailwind,bootstrap,jquery,html,css" alt="Frameworks" />
 </p>
