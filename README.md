@@ -1,7 +1,7 @@
 <table width="100%"><tr><td>
 <div align="left">
 
-# 👨‍💻 Hello World! I am Moeiz Shahzad 👋
+# ```👨‍💻 Hello World! I am Moeiz Shahzad 👋```
 ### 🚀 Software Engineer | Backends & Distributed Systems | AI Engineering & Automations
 
 ---
@@ -62,17 +62,17 @@
 
 ---
 
-## 🌐 Connect & Metrics
+## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.facebook.com/moeiz.shahzad.935919" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
   <a href="https://www.linkedin.com/in/moeiz-shahzad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:moeizshahzad1602@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.facebook.com/moeiz.shahzad.935919" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://github.com/moeiz16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
