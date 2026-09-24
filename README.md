@@ -87,3 +87,5 @@
 
 </div>
 </td></tr></table>
+> ### ➡️ ⚠️ SECURITY NOTICE
+> **Please Note:** I only conduct professional correspondence and technical interviews through verified corporate email domains or official platform channels (such as LinkedIn). **I never conduct recruitment, share meeting links, or negotiate opportunities via generic Gmail addresses or WhatsApp.** If someone is using my name, tech stack, or video footprint outside of official corporate channels, it is a fraudulent identity attempt.
